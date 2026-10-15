@@ -1,6 +1,6 @@
 {
   "name": "terminaltyper",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A monkeytype-inspired typing test for the terminal",
   "type": "module",
   "bin": {
@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "ink": "^8.0.0",
-    "react": "^19.3.1"
+    "react": "^19.3.0"
   },
   "devDependencies": {
     "@types/node": "^26.6.5",
