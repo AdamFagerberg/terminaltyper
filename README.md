@@ -4,7 +4,16 @@ A [monkeytype](https://monkeytype.com/)-inspired typing test for the terminal.
 
 Currently: english (200 most common words), time mode, 15 seconds, no numbers or punctuation, serika dark colors.
 
-## Run
+## Install
+
+```sh
+brew tap adamfagerberg/tap
+brew trust adamfagerberg/tap   # newer Homebrew requires trusting third-party taps
+brew install terminaltyper
+terminaltyper
+```
+
+## Run from source
 
 ```sh
 npm install
